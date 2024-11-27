@@ -11,7 +11,7 @@ class AppbarSection extends StatelessWidget {
     return const Column(
       children: [
         AppbarHeader(),
-        AppbarOptions()
+        AppbarOptions(),
       ],
     );
   }
